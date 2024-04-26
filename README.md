@@ -1,6 +1,7 @@
 # Voice-Based-Email-for-Visually-Impaired
 An email application designed for visually impaired people to perform their tasks easily and effectively
-This project is submitted by Prakhar Khandelwal, Prakshep Goswami , Pranjali Mishra ,Pratham Jaiswal to the International Institute of Professional Studies ,DAVV ,Indore and hereby accord our approval of it as a study carried out and presented in a manner required for its acceptancein partial fulfilment for the award of degree of “Master of Computer Application (5 year) Semester-6”.
+
+This project is submitted by Prakhar Khandelwal, Prakshep Goswami , Pranjali Mishra ,Pratham Jaiswal to the International Institute of  Professional Studies ,DAVV ,Indore and hereby accord our approval of it  as a study carried out and presented in a manner required for its acceptancein partial fulfilment for the award of degree of “Master of Computer  Application (5 year) Semester-6”.
 
 Our aim is to create an application where normal people can communicate via email while we use the speech to text algorithm for visually impaired users. The main advantage of this system is that use of the keyboard is completely eliminated, the user will have to respond through voice only. This application helps to minimize the complications that the visually impaired people face while communicating, thus making them less dependent on others for sending mails.
 
